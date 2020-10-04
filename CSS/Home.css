@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+img.tid{
+	height: 40px;
+	width: 40px;
+	position: fixed;
+	top: 80%;
+	left: 3%;
+}
